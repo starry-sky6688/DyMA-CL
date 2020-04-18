@@ -35,4 +35,4 @@ want to train from scratch, you should use it to train on '8m', then move the mo
 
 We independently train DyMa for 8 times and take the mean of the 8 independent results.
 ### 1. Mean Win Rate of 8 Independent Runs on '3m'
-<div align=center><img width = '600' height ='300' src ="https://github.com/starry-sky6688/StarCraft/blob/master/dyma/result/compare.png"/></div>
+<div align=center><img width = '600' height ='300' src ="https://github.com/starry-sky6688/DyMA-CL/blob/master/result/compare.png"/></div>
